@@ -9,9 +9,13 @@ Installation Instructions
 -------------------------
 Clone the repo, run npm install, followed by bower install. Run node server.js
 
+Project URL
+-----------
+http://jobbiesapp.herokuapp.com/
+
 Credits
 -------
-Christian Eckenrode, James Mona, Christopher Donofrio
+Christian Eckenrode, James Mona
 
 License 
 -------
