@@ -12,6 +12,9 @@ Clone the repo, run npm install, followed by bower install. Run node server.js
 Project URL
 -----------
 http://jobbiesapp.herokuapp.com/
+Guest login:
+email: guest@jobbiesapp.com
+pass: guestPass
 
 Credits
 -------
