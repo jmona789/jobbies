@@ -13,9 +13,9 @@ Project URL
 -----------
 http://jobbiesapp.herokuapp.com/
 
-#Guest login:
-email: guest@jobbiesapp.com
-pass: guestPass
+Guest login: 
+email: guest@jobbiesapp.com 
+pass: guestPass 
 
 Credits
 -------
