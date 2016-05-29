@@ -44,6 +44,8 @@ angular.module("jobbiesApp").controller('FeedController', ['$scope', '$http',
     $scope.goToJobbie = function(id){
       $state.go('jobbie', {jobbie_id: id});
     };
-
+    $scope.resetFilter = function(){ 
+      $scope.category = {handywork:true, housework:true, yardwork: true, misc: true};
+    }
   }
 ]);
