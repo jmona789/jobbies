@@ -45,4 +45,3 @@ require('./app/routes/routes')(app, passport); //pass our application and passpo
 app.listen(PORT, function() {
   console.log("Listening on PORT " + PORT);
 }); //start server and console log on connection
-
